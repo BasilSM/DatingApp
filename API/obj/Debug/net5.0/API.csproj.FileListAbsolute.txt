@@ -1,0 +1,164 @@
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\appsettings.Development.json
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\appsettings.json
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\API.exe
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\API.deps.json
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.json
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\API.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\ref\API.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\API.pdb
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.csproj.CopyComplete
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.dll
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\ref\API.dll
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.pdb
+F:\Angular\New folder\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
+F:\Angular\New folder\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\appsettings.Development.json
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\appsettings.json
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\API.exe
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\API.deps.json
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.json
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\API.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\ref\API.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\API.pdb
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.csproj.CopyComplete
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.dll
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\ref\API.dll
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.pdb
+F:\Angular\DatingApp\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+F:\Angular\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
